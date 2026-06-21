@@ -1,5 +1,7 @@
 # Premier League Match Outcome Prediction
 
+![Match Outcome Distribution](Images/PL%20Match%20Outcome.png)
+
 A machine learning project focused on predicting Premier League match outcomes using historical football data, feature engineering, and ensemble learning techniques.
 
 The project was built alongside learning machine learning algorithms from first principles. Rather than treating models as black boxes, the emphasis was placed on understanding the complete ML workflow: data collection, preprocessing, feature engineering, model training, hyperparameter tuning, overfitting analysis, and evaluation.
